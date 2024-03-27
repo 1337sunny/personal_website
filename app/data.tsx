@@ -30,8 +30,8 @@ export const socials = [
   {
     logo: <Twitter size={20} />,
     alt: "Twitter",
-    href: "https://twitter.com/___SunnyMore___",
-    text: "twitter.com/___SunnyMore___",
+    href: "https://twitter.com/1337_sunny",
+    text: "twitter.com/1337_sunny",
   },
 ];
 
