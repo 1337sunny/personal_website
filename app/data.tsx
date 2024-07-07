@@ -4,8 +4,8 @@ export const socials = [
   {
     logo: <Mail size={20} />,
     alt: "Mail",
-    href: "mailto:mxsunny10@gmail.com",
-    text: "mxsunny10@gmail.com",
+    href: "mailto:sunnymore1337@gmail.com",
+    text: "sunnymore1337@gmail.com",
   },
   {
     logo: (
@@ -24,8 +24,8 @@ export const socials = [
       </svg>
     ),
     alt: "GitHub",
-    href: "https://github.com/mxsunny",
-    text: "github.com/mxsunny",
+    href: "https://github.com/1337sunny",
+    text: "github.com/1337sunny",
   },
   {
     logo: <Twitter size={20} />,
