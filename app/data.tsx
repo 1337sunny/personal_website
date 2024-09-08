@@ -37,19 +37,19 @@ export const socials = [
 
 export const projects = [
   {
-    title: "emp-man-system",
-    description: "Employee management system designed to organize employee records and streamline hr processes.",
+    title: "employee management system",
+    description: "This project is an Employee Management System built using Spring Boot. It helps organizations manage employee records efficiently by allowing administrators to add, update, view, and delete employee details. The system provides a streamlined interface for HR processes, improving record-keeping and management.",
     links: [
       {
         title: "Code",
-        href: "https://github.com/mxsunny/emp-man-sys",
+        href: "https://github.com/1337sunny/employee_management_system",
       },
     ],
   },
   {
-    title: "Virus Tracker",
+    title: "virus tracking dashboard",
     description:
-      "Virus Tracker designed to track the spread of coronavirus globally.",
+      "This project is a real-time coronavirus tracking dashboard that fetches and displays up-to-date information on COVID-19 cases, recoveries, and deaths. The platform provides users with global and country-specific data, helping them stay informed about the ongoing pandemic.",
     links: [
       {
         title: "Code",
@@ -58,33 +58,33 @@ export const projects = [
     ],
   },
   {
-    title: "Data analysis and visualization of indian railway data",
+    title: "data analysis and visualization of indian railway data",
     description:
-      "Examining extensive datasets to identify patterns and trends inorder to generate live reports.",
+      "This project focuses on analyzing and visualizing extensive datasets related to Indian railways. It includes data preprocessing, cleaning, and exploration to uncover patterns and trends within the railway system. The project utilizes various data visualization techniques to present insights in a user-friendly and interactive manner.",
     links: [
       {
         title: "Code",
-        href: "https://github.com/mxsunny",
+        href: "https://github.com/1337sunny",
       },
     ],
   },
   {
-    title: "e-commerce app",
-    description: "An online store to sell various clothing items particularly geek themed t-shirts, hoodies and apparel.",
+    title: "geek clothing store",
+    description: "This project is a web platform designed for selling geek-themed hoodies, t-shirts, and apparel. The site provides a clean and modern interface for users to explore a wide range of products tailored for geek culture enthusiasts. Users can browse through categories, view detailed product descriptions, and make secure purchases.",
     links: [
       {
         title: "Code",
-        href: "https://github.com/mxsunny/ecomm-lancome",
+        href: "https://github.com/1337sunny/geek_clothing_store",
       },
     ],
   },
   {
-    title: "Web Store",
-    description: "An online store to sell electronic products.",
+    title: "boat clone",
+    description: "This project is a clone of the Boat website, designed to sell various electronics such as headphones, speakers, earphones, smartwatches, and other gadgets. The platform provides users with an intuitive and user-friendly interface to browse and purchase high-quality electronic products. Key features include product search, category filtering, a shopping cart, and a secure checkout process.",
     links: [
       {
         title: "Code",
-        href: "https://github.com/mxsunny/ecomm-boat",
+        href: "https://github.com/1337sunny/boat_clone",
       },
       {
         title: "Website",
