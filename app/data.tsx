@@ -37,6 +37,16 @@ export const socials = [
 
 export const projects = [
   {
+    title: "face recognition real-time",
+    description: "This Python project demonstrates a real-time face recognition system using the face_recognition and OpenCV libraries. The project allows for the comparison of two images to determine if the faces match.",
+    links: [
+      {
+        title: "Code",
+        href: "https://github.com/1337sunny/face_recognition_real_time",
+      },
+    ],
+  },
+  {
     title: "employee management system",
     description: "This project is an Employee Management System built using Spring Boot. It helps organizations manage employee records efficiently by allowing administrators to add, update, view, and delete employee details. The system provides a streamlined interface for HR processes, improving record-keeping and management.",
     links: [
