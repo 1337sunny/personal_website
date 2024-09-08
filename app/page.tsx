@@ -20,13 +20,7 @@ export default function Page() {
         </div>
       </div>
       <p className="prose prose-neutral dark:prose-invert">
-        I am a Computer Science Engineer, having completed my engineering from MIT College.
-        <br />
-        Currently, I work as a Software Engineer at Microworld Software Solutions.
-        <br />
-        My expertise lies in Java, Spring Framework, Spring Boot, Hibernate, microservices, REST APIs, relational and non-relational databases, and cloud technologies for backend development.
-        <br />
-        I also have experience with JavaScript for frontend development.
+        I’m a passionate and dedicated software engineer, driven by curiosity and a commitment to solving complex problems. With a focus on delivering thoughtful and impactful solutions, I aim to bring innovation and simplicity to everything I do. I believe in continuous learning and the power of collaboration to create meaningful work.
       </p>
     </section>
   );
